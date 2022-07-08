@@ -43,7 +43,7 @@ Original Analysis:
 ![Pic 2](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/1fd6b7199c669390649b332a7da3117e65333081/Screen%20Shot%202022-07-08%20at%201.02.20%20PM.png)
 
 Adjusted Analysis:
-![Pic 3](
+![Pic 3](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/8b48952c7c8eaccb90fd812958cd5c420266860e/Screen%20Shot%202022-07-08%20at%201.02.44%20PM.png)
 
 Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate. 
 
