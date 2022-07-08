@@ -51,12 +51,12 @@ Removing the 9th grade students from the data set had a huge impact by dropping 
 In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board. 
 
 Original Analysis:
-![Pic 5](https://github.com
+![Pic 4](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/5478772dd5c081a73eb5dd52204e64c7062b2484/Screen%20Shot%202022-07-08%20at%201.10.40%20PM.png)
 
 After adjusting the 9th grade data, Thomas High School ranked in the exact middle of 15 campuses at 8th from the bottom. 
 
 Adjusted Analysis:
-![Pic 6](https://github.com/
+![Pic 5](
 
 ## How does replacing the ninth-grade scores affect the following:
 
