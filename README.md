@@ -40,10 +40,10 @@ When comparing the two charts, removing only 461 test scores had a nominal impac
 In the original analysis, Thomas High School started with a 91% overall passing rate, which was a concern to the school board as being too high.  After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted accordingly.  
 
 Original Analysis:
-
+![Pic 2](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/1fd6b7199c669390649b332a7da3117e65333081/Screen%20Shot%202022-07-08%20at%201.02.20%20PM.png)
 
 Adjusted Analysis:
-
+![Pic 3](
 
 Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate. 
 
