@@ -1,63 +1,49 @@
 # School District Analysis Challenge
 PyCitySchools with Pandas
 
-## Main Objective
-1. Open Jupyter Notebook files from local directories using a development environment.
-2. Read an external CSV file into a DataFrame.
-3. Format a DataFrame column.
-4. Determine data types of row values in a DataFrame.
-5. Retrieve data from specific columns of a DataFrame.
-6. Merge, filter, slice, and sort a DataFrame.
-7. Use multiple methods to perform a function on a DataFrame.
-8. Perform mathematical calculations on columns of a DataFrame or Series.
+## Challenge Objectives
+1. Opening Jupyter Notebook files from local directories using a development environment.
+2. Reading an external CSV file into a DataFrame.
+3. Formatting a DataFrame column.
+4. Determining data types of row values in a DataFrame.
+5. Retrieving data from specific columns of a DataFrame.
+6. Use of Merge, filter, slice, sort and groupby() in a DataFrame.
+7. Use of multiple methods to perform a function on a DataFrame.
+8. Performing mathematical calculations on columns of a DataFrame or Series.
 
 
 ## Purpose
-A school district asked for a snapshot of several key metrics by each school campus and by the district level.  The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting.  However, after the school board reviewed the data, it was determined that the data from Thomas High School's 9th grade class was suspect of cheating.  The school board asked for the data to be removed and analyzed again for a comparison. 
+A school district asked for a snapshot of several key metrics by each school campus and by the district level.  The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting.  However, after the school board reviewed the data, it was determined that the data from Thomas High School's 9th grade class was suspected of dishonesty.  The school board member asked for the data to be removed and analyzed again for a comparison. 
 
 ## PythonData Environment
-1. Anaconda version 1.7.2
-2. Conda version 4.9.0
-3. Jupyter-Notebook version 6.1.4
-4. ipykernal version 5.3.4
-5. Python version 3.7.7
-6. Pandas version 1.1.3
-7. Numpy version 1.19.1
-8. GitBash version 2.28.0.windows.1
+1. Anaconda version 2.1.1
+2. Jupyter-Notebook version 6.4.5
+3. ipykernal
+4. Python version 3.7.7
+5. Pandas
+6. Numpy
 
-## Process
-1. Open Jupyter Notebook files from local directories using a development environment.
-2. Read an external CSV file into a DataFrame.
-3. Format a DataFrame column.
-4. Determine data types of row values in a DataFrame.
-5. Retrieve data from specific columns of a DataFrame.
-6. Merge, filter, slice, and sort a DataFrame.
-7. Apply the groupby() function to a DataFrame.
-8. Use multiple methods to perform a function on a DataFrame.
-9. Perform mathematical calculations on columns of a DataFrame or Series.
 
 ## Results
 
 ### How is the district summary affected?
-Original Analysis:
+Analysis:
 
 ![Pic 1](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/52d52c7e82aacc622b688a8617966bddbb29dae1/Image%201.png)
 The testing data of 461 9th graders at Thomas High School was turned into null data, which recalculated the percentages of passing math, passing reading, and the overall passing.  The total count of students did not change as that was run on the count of the student ids, which was not turned into null data. 
 
-Adjusted Analysis:
-![Pic 2](https://github.com/
 
-When comparing the two charts, removing less than 500 test scores had a nominal impact on the almost 40,000 student data set.  The change was less than a 1% difference and the numbers would still round to the same whole number.  
+When comparing the two charts, removing only 461 test scores had a nominal impact on the almost 40,000 student data set.  The change was less than a 1% difference and the numbers would still round to the same whole number.  
 
 ### How is the school summary affected?
 
 In the original analysis, Thomas High School started with a 91% overall passing rate, which was a concern to the school board as being too high.  After calculating the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted accordingly.  
 
 Original Analysis:
-![Pic 3](https://github.com/
+![Pic 2](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/1fd6b7199c669390649b332a7da3117e65333081/Screen%20Shot%202022-07-08%20at%201.02.20%20PM.png)
 
 Adjusted Analysis:
-![Pic 4](https://github.com/
+![Pic 3](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/8b48952c7c8eaccb90fd812958cd5c420266860e/Screen%20Shot%202022-07-08%20at%201.02.44%20PM.png)
 
 Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate. 
 
