@@ -68,7 +68,7 @@ Now the scores have been replaced with null values and shows up in Python progra
 Adjusted Average Math Scores ----------------------------------------------------- Adjusted Average Reading Scores: 
 
 ![Pic 6](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/5fb3f09dac19e50bec41c816105086ca995afb4d/Screen%20Shot%202022-07-08%20at%201.16.48%20PM.png)
-![Pic 7](
+![Pic 7](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/09eac8c3f5623872246153fe7cf6416d6a3a6148/Screen%20Shot%202022-07-08%20at%201.17.20%20PM.png)
 
 ### Scores by school spending
 
