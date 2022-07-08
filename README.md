@@ -78,7 +78,7 @@ Now the scores have been replaced with null values and shows up in Python progra
 Thomas High School falls in the $630-$644/student spending range.  
 
 Analysis:
-![Pic 8](https://github.com
+![Pic 8](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/5e3fe8248016d0f9b88193b532c3e62b2b17ae3b/Screen%20Shot%202022-07-08%20at%201.31.58%20PM.png)
 
 
 ### Scores by school size
