@@ -85,8 +85,7 @@ Analysis:
 Thomas High School is defined as a medium sized school.  
 
 Analysis:
-![Pic 9](https://github.com/
-
+![Pic 9](https://github.com/fouadZiaa/school_district_analysis_challenge/blob/e7e818c8ef5ba9a601b336baf3b4fe0bd0bbf1ac/Screen%20Shot%202022-07-08%20at%201.32.11%20PM.png)
 
 There was very little impact by campus size due to changing the 9th grade scores. 
 
